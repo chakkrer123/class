@@ -46,7 +46,8 @@
             android:layout_marginTop="140dp"
             android:textOff="AIR"
             android:textOn="AIR"
-            android:textSize="@dimen/h3" />
+            android:textSize="@dimen/h3"
+            android:checked="false" />
     </LinearLayout>
 
     <TextView
